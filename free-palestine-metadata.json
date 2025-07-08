@@ -2,7 +2,7 @@
   "name": "FREE-PALESTINE",
   "symbol": "FRPL",
   "description": "A token created to stand with the people of Palestine. Symbol of resistance, unity, and freedom.",
-  "seller_fee_basis_points": 0,
+  "seller_fee_basis_points": 200,
   "image": "https://raw.githubusercontent.com/ahmadbalochdev/free-palestine-token/main/logo.png",
   "attributes": [
     {
