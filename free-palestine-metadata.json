@@ -4,6 +4,7 @@
   "description": "A token created to stand with the people of Palestine. Symbol of resistance, unity, and freedom.",
   "seller_fee_basis_points": 200,
   "image": "https://raw.githubusercontent.com/ahmadbalochdev/free-palestine-token/main/logo.png",
+  "mint": "2t5uEpQQa6GqQgsrCERTEbeuSHyN1ARX1ekPQAUFg4jK",
   "attributes": [
     {
       "trait_type": "Cause",
